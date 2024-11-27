@@ -4,20 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a quantum scientist. I am trying to find ways how we can use quantum computers for scientific discovery in material science, quantum chemistry and nuclear physics. 
 
-## Research Interests
+## Research Interest: Quantum Simulation using Digital and Analog Quantum Computers
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Quantum Computation using native particles:** Can we more efficiently simulate interacting systems consisting of the two fundamental particles in Nature - bosons and fermions - by using quantum computers built from bosons and fermions (rather than qubits)?
+- **Thermal State Preparation:** Can we find ways of preparing low (but finite) temperature states that is more efficient than ground-state preparation? Does this enable us to solve problems using quantum computers that we couldn't solve using classical computers?
+- **Near-term fault-tolerant quantum computation:** Can we solve non-trivial problems with a small, (partially) fault-tolerant quantum computer? 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2024]** Our preprint on fermion-qubit error correction has appeared on the arXiv.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
