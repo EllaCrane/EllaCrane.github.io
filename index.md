@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a quantum scientist. I am trying to find ways how we can use quantum computers for scientific discovery in material science, quantum chemistry and nuclear physics. 
+I am a quantum scientist. I am trying to find ways to use quantum computers for scientific discovery in material science, quantum chemistry and nuclear physics. 
 
 ## Research Interest: Quantum Simulation using Digital and Analog Quantum Computers
 
