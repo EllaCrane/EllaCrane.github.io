@@ -2,11 +2,11 @@ main:
 
   - title: Fermion-qubit fault-tolerant quantum computing
     authors: <strong>Alexander Schuckert</strong>, Eleanor Crane, Alexey V. Gorshkov, Mohammad Hafezi, Michael J. Gullans
-    conference_short: ArXiv
-    conference: ArXiv, 2024
+    conference_short: arXiv
+    conference: arXiv, 2024.
     pdf: https://arxiv.org/abs/2411.08955
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/FermiQEC.png
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
     # notes: Early Accept
 
   #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
