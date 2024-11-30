@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a quantum scientist. I am trying to find ways to use quantum computers for scientific discovery in material science, quantum chemistry and nuclear physics. 
+I am  
 
-## Research Interest: Quantum Simulation using Digital and Analog Quantum Computers
+## Research Interest: Quantum Simulation
 
 - **Quantum Computation using native particles:** Can we more efficiently simulate interacting systems consisting of the two fundamental particles in Nature - bosons and fermions - by using quantum computers built from bosons and fermions (rather than qubits)?
 - **Thermal State Preparation:** Can we find ways of preparing low (but finite) temperature states that is more efficient than ground-state preparation? Does this enable us to solve problems using quantum computers that we couldn't solve using classical computers?
