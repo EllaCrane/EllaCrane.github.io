@@ -13,5 +13,8 @@ I grew up in a superposition of England and France, and enjoy adventures, whatev
 ## News
 
 - **[Nov. 2024]** Our preprint on fermion-qubit error correction has appeared on the arXiv.
+- **[Dec. 2024]** I completed the Adaptive Leadership course at the Harvard Kennedy School.
+- **[Sept. 2024]** Our preprint on qubit-oscillator quantum simulation has appeared on the arXiv.
+- **[Aug. 2024]** Our preprint on qubit-oscillator quantum architecture has appeared on the arXiv.
 
 {% include_relative _includes/publications.md %}
