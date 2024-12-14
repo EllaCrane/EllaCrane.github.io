@@ -1,7 +1,7 @@
 main:
 
   - title: Fermion-qubit fault-tolerant quantum computing
-    authors: <strong>Alexander Schuckert</strong>, Eleanor Crane, Alexey V. Gorshkov, Mohammad Hafezi, Michael J. Gullans
+    authors: Alexander Schuckert, <strong>Eleanor Crane</strong>, Alexey V. Gorshkov, Mohammad Hafezi, Michael J. Gullans
     conference_short: arXiv
     conference: arXiv, 2024.
     pdf: https://arxiv.org/abs/2411.08955
@@ -9,13 +9,21 @@ main:
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     # notes: Early Accept
 
-  #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #  authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #  conference_short: CVPR
-  #  conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #  pdf: https://arxiv.org/pdf/2002.10211.pdf
-#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #  page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #  bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-   # notes: Oral Presentation
-   # image: ./assets/img/teaser_example.png
+  - title: Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields
+    authors: <strong>Eleanor Crane</strong>, Kevin C. Smith, Teague Tomesh, Alec Eickbusch, John M. Martyn, Stefan Kuhn, Lena Funcke, Michael A. DeMarco, Isaac L. Chuang, Nathan Wiebe, Alexander Schuckert, Steven M. Girvin
+    conference_short: arXiv
+    conference: arXiv, 2024.
+    pdf: https://arxiv.org/abs/2409.03747
+    image: ./assets/img/lgt.png
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    # notes: Early Accept
+
+  - title: Hybrid Oscillator-Qubit Quantum Processors: Instruction Set Architectures, Abstract Machine Models, and Applications
+    authors: Yuan Liu, Shraddha Singh, Kevin C. Smith, <strong>Eleanor Crane</strong>, John M. Martyn, Alec Eickbusch, Alexander Schuckert, Richard D. Li, Jasmine Sinanan-Singh, Micheline B. Soley, Takahiro Tsunoda, Isaac L. Chuang, Nathan Wiebe, Steven M. Girvin
+    conference_short: arXiv
+    conference: arXiv, 2024.
+    pdf: https://arxiv.org/abs/2407.10381
+    image: ./assets/img/isa.png
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    # notes: Early Accept
+
