@@ -4,13 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am  
-
-## Research Interest: Quantum Simulation
-
-- **Quantum Computation using native particles:** Can we more efficiently simulate interacting systems consisting of the two fundamental particles in Nature - bosons and fermions - by using quantum computers built from bosons and fermions (rather than qubits)?
-- **Thermal State Preparation:** Can we find ways of preparing low (but finite) temperature states that is more efficient than ground-state preparation? Does this enable us to solve problems using quantum computers that we couldn't solve using classical computers?
-- **Near-term fault-tolerant quantum computation:** Can we solve non-trivial problems with a small, (partially) fault-tolerant quantum computer? 
+Goal: quantum simulation of nature using error-corrected quantum computers made of qubits, fermions, and bosons. Grew up in a superposition of England and France. Enjoys adventures, whatever the nature.
 
 ## News
 
