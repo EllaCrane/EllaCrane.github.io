@@ -12,7 +12,7 @@ main:
     conference_short: arXiv
     conference: arXiv, 2024.
     pdf: https://arxiv.org/abs/2409.03747
-    image: ./assets/img/lgt
+    image: ./assets/img/lgt.png
 
   - title: Hybrid Oscillator-Qubit Quantum Processors: Instruction Set Architectures, Abstract Machine Models, and Applications
     authors: Yuan Liu, Shraddha Singh, Kevin C. Smith, <strong>Eleanor Crane</strong>, John M. Martyn, Alec Eickbusch, Alexander Schuckert, Richard D. Li, Jasmine Sinanan-Singh, Micheline B. Soley, Takahiro Tsunoda, Isaac L. Chuang, Nathan Wiebe, Steven M. Girvin
