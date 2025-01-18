@@ -6,7 +6,7 @@ main:
     conference: Nat. Phys., 2024.
     pdf: https://rdcu.be/d6BgC
     image: ./assets/img/1DFiniteTemp.png
-    page: https://www.nature.com/articles/s41567-024-02751-2
+    journal: https://www.nature.com/articles/s41567-024-02751-2
     arxiv: https://arxiv.org/abs/2310.19869
     bibtex: ./assets/bib/Schuckert2025.bib
 
@@ -14,9 +14,10 @@ main:
     authors: <strong>Alexander Schuckert</strong>, Eleanor Crane, Alexey V. Gorshkov, Mohammad Hafezi, Michael J. Gullans
     conference_short: arXiv
     conference: arXiv, 2024.
-    pdf: https://arxiv.org/abs/2411.08955
+    pdf: https://arxiv.org/pdf/2411.08955
+    arxiv: https://arxiv.org/abs/2411.08955
     image: ./assets/img/FermiQEC.png
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: ./assets/bib/Schuckert2024.bib
     # notes: Early Accept
 
   #- title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
