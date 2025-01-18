@@ -8,6 +8,7 @@ main:
     image: ./assets/img/1DFiniteTemp.png
     journal: https://www.nature.com/articles/s41567-024-02751-2
     arxiv: https://arxiv.org/abs/2310.19869
+    press: https://www.newscientist.com/article/2464444-elusive-phase-change-finally-spotted-in-a-quantum-simulator/
     bibtex: ./assets/bib/Schuckert2025.bib
 
   - title: Fermion-qubit fault-tolerant quantum computing
