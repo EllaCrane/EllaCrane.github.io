@@ -14,7 +14,7 @@ I am a quantum scientist exploring ways to use quantum computers for scientific 
 
 ## News
 - **[Jan. 2025]** The [New Scientist](https://www.newscientist.com/article/2464444-elusive-phase-change-finally-spotted-in-a-quantum-simulator/) wrote a great of our 1D finite-energy phase transition [paper](https://www.nature.com/articles/s41567-024-02751-2) and its implications for future work. 
-- **[Jan. 2025]** Our paper on the first observation of a finite-energy phase transition in 1D has appeared in [Nature Physics](https://www.nature.com/articles/s41567-024-02751-2). 
+- **[Jan. 2025]** Our paper on the first observation of a finite-energy phase transition in 1D has appeared in [Nature Physics](https://www.nature.com/articles/s41567-024-02751-2). A big thanks to Or Katz and Chris Monroe at Duke for the fun experiment-theory collaboration!
 - **[Nov. 2024]** Our preprint on fermion-qubit error correction has appeared [on the arXiv](https://arxiv.org/abs/2411.08955).
 
 {% include_relative _includes/publications.md %}
