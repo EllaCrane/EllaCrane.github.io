@@ -7,6 +7,7 @@ main:
     pdf: https://rdcu.be/d6BgC
     image: ./assets/img/1DFiniteTemp.png
     page: https://www.nature.com/articles/s41567-024-02751-2
+    arxiv: https://arxiv.org/abs/2310.19869
     bibtex: ./assets/bib/Schuckert2025.bib
 
   - title: Fermion-qubit fault-tolerant quantum computing
