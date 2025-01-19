@@ -11,6 +11,7 @@ For the key ideas, watch this [Qiskit Seminar Series](https://www.google.com/url
 ## About Me
 
 I grew up in a superposition of England and France, and enjoy adventures, whatever the nature.
+
 On the board of the [MIT European Club](https://euroclub.mit.edu/board), and organising the [Harvard European Conference](https://euroconf.eu) and the [MIT European Career Fair](https://euro-career.mit.edu).
 
 ## News
