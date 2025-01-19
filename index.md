@@ -9,7 +9,7 @@ My goal is to enable quantum simulation of nature using error-corrected quantum 
 ## About Me
 
 I grew up in a superposition of England and France, and enjoy adventures, whatever the nature.
-On the board of the MIT European Club, and organising the [Harvard European Conference](https://euroconf.eu) and the MIT European Career Fair.
+On the board of the [MIT European Club](https://euroclub.mit.edu/board), and organising the [Harvard European Conference](https://euroconf.eu) and the [MIT European Career Fair](https://euro-career.mit.edu).
 
 ## News
 
