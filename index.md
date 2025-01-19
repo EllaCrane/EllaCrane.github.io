@@ -5,6 +5,7 @@ layout: homepage
 ## Goal
 
 My goal is to enable quantum simulation of nature using error-corrected quantum computers made of qubits, fermions, and bosons to become a reality.
+For the key ideas, watch this [Qiskit Seminar Series](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3D5dyUNsh8Q9E&ved=2ahUKEwiPy9OO2oKLAxVGvokEHcm7ArYQwqsBegQIDRAE&usg=AOvVaw3ueBJk0AdnNi4DKtmB0Hty) episode that the wonderful Zlatko Minev invited me to give!
 
 ## About Me
 
