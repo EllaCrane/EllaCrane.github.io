@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a quantum scientist developing quantum computing methods for scientific discovery in material science, quantum chemistry, and nuclear physics.
+I am a scientist developing quantum computing methods for scientific discovery in material science, quantum chemistry, and nuclear physics.
 
 ## Research Interest: Quantum Simulation
 
