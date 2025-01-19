@@ -17,8 +17,8 @@ On the board of the MIT European Club, and organising the [Harvard European Conf
 - **[Jan. 2025]** Our paper on the first observation of a finite-energy phase transition in 1D has appeared in [Nature Physics](https://www.nature.com/articles/s41567-024-02751-2). A big thanks to Alexander Schuckert, Or Katz and Chris Monroe!
 - **[Jan. 2024]** Creation of the [Giggly Bit!](https://www.sundai.club/projects/ac655b49-d001-4f1c-82a9-bfb7bf37db44) You laugh, it laughs, it makes you laugh, it laughs, everyone laughs.
 - **[Dec. 2024]** Completed the Adaptive Leadership course at the Harvard Kennedy School.
-- **[Nov. 2024]** Our preprint on [fermion-qubit error correction](https://arxiv.org/pdf/2411.08955) has appeared on the arXiv.
-- **[Sept. 2024]** Our preprint on [qubit-oscillator quantum simulation](https://arxiv.org/pdf/2409.03747) has appeared on the arXiv.
+- **[Nov. 2024]** Our preprint on [fermion-qubit error correction](https://arxiv.org/pdf/2411.08955) has appeared on the arXiv. As usual, great working with Alexander Schuckert. We learnt a lot from Michael Gullans!
+- **[Sept. 2024]** Our preprint on [qubit-oscillator quantum simulation](https://arxiv.org/pdf/2409.03747) has appeared on the arXiv. Hurray Nathan Wiebe and Steve Girvin! Years of hard work for a very promising goal!
 - **[Aug. 2024]** Our preprint on [qubit-oscillator quantum architecture](https://arxiv.org/pdf/2407.10381) has appeared on the arXiv. 
 
 {% include_relative _includes/publications.md %}
