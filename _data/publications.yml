@@ -1,5 +1,16 @@
 main:
 
+  - title: Observation of a finite-energy phase transition in a one-dimensional quantum simulator
+    authors: <strong>Alexander Schuckert</strong>, Or Katz, Lei Feng, Eleanor Crane, Arinjoy De, Mohammad Hafezi, Alexey V. Gorshkov, Christopher Monroe 
+    conference_short: Nat. Phys.
+    conference: Nature Physics, 2025.
+    pdf: https://rdcu.be/d6BgC
+    image: ./assets/img/1DFiniteTemp.png
+    journal: https://www.nature.com/articles/s41567-024-02751-2
+    arxiv: https://arxiv.org/abs/2310.19869
+    press: https://www.newscientist.com/article/2464444-elusive-phase-change-finally-spotted-in-a-quantum-simulator/
+    bibtex: ./assets/bib/Schuckert2025.bib
+
   - title: Fermion-qubit fault-tolerant quantum computing
     authors: Alexander Schuckert, <strong>Eleanor Crane</strong>, Alexey V. Gorshkov, Mohammad Hafezi, Michael J. Gullans
     conference_short: arXiv
