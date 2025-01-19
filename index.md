@@ -2,11 +2,9 @@
 layout: homepage
 ---
 
-## About Me
-
 I am a scientist developing quantum computing methods for scientific discovery in material science, quantum chemistry, and nuclear physics.
 
-## Research Interest: Quantum Simulation
+## Research: Quantum Simulation
 
 - **Hardware-efficient digital quantum simulation using native particles:** Can we more efficiently simulate interacting systems consisting of the two fundamental particles in Nature - bosons and fermions - by using quantum computers built from bosons and fermions (in addition to qubits)?
 - **Near-term fault-tolerant quantum computation:** Can we solve non-trivial problems with a small fault-tolerant quantum computer (1000-10000 physical qubits)? 
