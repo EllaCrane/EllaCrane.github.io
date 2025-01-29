@@ -10,11 +10,17 @@ For the key ideas, watch this [Qiskit Seminar Series](https://www.google.com/url
 
 ## About Me
 
-I grew up in a superposition of England and France, and enjoy adventures, whatever the nature.
+Grew up in a superposition of England and France, and enjoy adventures, whatever the nature.
 
-On the board of the [MIT European Club](https://euroclub.mit.edu/board), and organising the [Harvard European Conference](https://euroconf.eu) and the [MIT European Career Fair](https://euro-career.mit.edu).
+[Postdoc at MIT](https://meche.mit.edu/people/staff/emc2@mit.edu), working with Seth Lloyd.
 
-Until May 2025, I am a teaching assistant for the MIT leadership course [LEAPS](https://physics.mit.edu/academic-programs/subjects/mitleaps/). I completed the [Adaptive Leadership](https://www.hks.harvard.edu/publications/practice-adaptive-leadership-tools-and-tactics-changing-your-organization-and-world) course at the Harvard Kennedy School end 2024, and am currently taking [Transforming Systems](https://locator.tlt.harvard.edu/course/gse-205506/2025/spring/19970) at Harvard.
+Board member [MIT European Club](https://euroclub.mit.edu/board).
+Organising the [Harvard European Conference](https://euroconf.eu).
+Organising the [MIT European Career Fair](https://euro-career.mit.edu).
+
+Teaching assistant for MIT leadership course [LEAPS](https://physics.mit.edu/academic-programs/subjects/mitleaps/).
+Completed [Adaptive Leadership](https://www.hks.harvard.edu/publications/practice-adaptive-leadership-tools-and-tactics-changing-your-organization-and-world) at Harvard.
+Currently taking [Transforming Systems](https://locator.tlt.harvard.edu/course/gse-205506/2025/spring/19970) at Harvard.
 
 ## News
 
