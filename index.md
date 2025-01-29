@@ -14,6 +14,8 @@ I grew up in a superposition of England and France, and enjoy adventures, whatev
 
 On the board of the [MIT European Club](https://euroclub.mit.edu/board), and organising the [Harvard European Conference](https://euroconf.eu) and the [MIT European Career Fair](https://euro-career.mit.edu).
 
+Until May 2025, I am a teaching assistant for the MIT leadership course [LEAPS](https://physics.mit.edu/academic-programs/subjects/mitleaps/). I completed the [Adaptive Leadership](https://www.hks.harvard.edu/publications/practice-adaptive-leadership-tools-and-tactics-changing-your-organization-and-world) course at the Harvard Kennedy School end 2024, and am currently taking [Transforming Systems](https://locator.tlt.harvard.edu/course/gse-205506/2025/spring/19970) at Harvard.
+
 ## News
 
 - **[Jan. 2025]** The [New Scientist](https://www.newscientist.com/article/2464444-elusive-phase-change-finally-spotted-in-a-quantum-simulator/) wrote a great summary of our first observation of a finite-energy phase transition in one dimension.
