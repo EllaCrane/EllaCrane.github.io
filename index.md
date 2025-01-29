@@ -20,9 +20,9 @@ Board member [MIT European Club](https://euroclub.mit.edu/board). Organising the
 
 Organising the [Harvard European Conference](https://euroconf.eu).
 
-Teaching assistant for MIT leadership course [LEAPS](https://physics.mit.edu/academic-programs/subjects/mitleaps/).
+Teaching assistant for leadership course [LEAPS](https://physics.mit.edu/academic-programs/subjects/mitleaps/) (MIT).
 
-Currently taking [Transforming Systems](https://locator.tlt.harvard.edu/course/gse-205506/2025/spring/19970), and completed [Adaptive Leadership](https://www.hks.harvard.edu/publications/practice-adaptive-leadership-tools-and-tactics-changing-your-organization-and-world) at Harvard. 
+Currently taking [Transforming Systems](https://locator.tlt.harvard.edu/course/gse-205506/2025/spring/19970) (Harvard), and completed [Adaptive Leadership](https://www.hks.harvard.edu/publications/practice-adaptive-leadership-tools-and-tactics-changing-your-organization-and-world) (Harvard). 
 
 ## News
 
