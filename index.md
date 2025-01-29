@@ -12,18 +12,15 @@ For the key ideas, watch this [Qiskit Seminar Series](https://www.google.com/url
 
 Grew up in a superposition of England and France, and enjoy adventures, whatever the nature.
 
-
 [Postdoc at MIT](https://meche.mit.edu/people/staff/emc2@mit.edu), working with Seth Lloyd.
 
+Board member [MIT European Club](https://euroclub.mit.edu/board). Organising the [MIT European Career Fair](https://euro-career.mit.edu).
 
-Board member [MIT European Club](https://euroclub.mit.edu/board). 
 Organising the [Harvard European Conference](https://euroconf.eu).
-Organising the [MIT European Career Fair](https://euro-career.mit.edu).
-
 
 Teaching assistant for MIT leadership course [LEAPS](https://physics.mit.edu/academic-programs/subjects/mitleaps/).
-Completed [Adaptive Leadership](https://www.hks.harvard.edu/publications/practice-adaptive-leadership-tools-and-tactics-changing-your-organization-and-world) at Harvard.
-Currently taking [Transforming Systems](https://locator.tlt.harvard.edu/course/gse-205506/2025/spring/19970) at Harvard.
+
+Currently taking [Transforming Systems](https://locator.tlt.harvard.edu/course/gse-205506/2025/spring/19970), and completed [Adaptive Leadership](https://www.hks.harvard.edu/publications/practice-adaptive-leadership-tools-and-tactics-changing-your-organization-and-world) at Harvard. 
 
 ## News
 
