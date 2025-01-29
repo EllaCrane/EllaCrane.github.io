@@ -2,17 +2,19 @@
 layout: homepage
 ---
 
-## Goal
+Grew up in a superposition of England and France, and enjoy adventures, whatever the nature.
+
+## Quantum Science
 
 My goal is to enable quantum simulation of nature using error-corrected quantum computers made of qubits, fermions, and bosons.
 
 For the key ideas, watch this [Qiskit Seminar Series](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3D5dyUNsh8Q9E&ved=2ahUKEwiPy9OO2oKLAxVGvokEHcm7ArYQwqsBegQIDRAE&usg=AOvVaw3ueBJk0AdnNi4DKtmB0Hty) episode I was invited to by the wonderful Zlatko Minev!
 
-## About Me
-
-Grew up in a superposition of England and France, and enjoy adventures, whatever the nature.
-
 [Postdoc at MIT](https://meche.mit.edu/people/staff/emc2@mit.edu), working with Seth Lloyd.
+
+Find my published and peer-reviewed articles on [Google Scholar](https://scholar.google.com/citations?user=b8v4d0sAAAAJ&hl=en&oi=sra) and the wonderful, open access (non-peer reviewed) [arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Crane,+E).
+
+## Policy, Politics and Leadership
 
 Board member [MIT European Club](https://euroclub.mit.edu/board). Organising the [MIT European Career Fair](https://euro-career.mit.edu).
 
