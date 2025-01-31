@@ -14,7 +14,7 @@ For the key ideas, watch this [Qiskit Seminar Series](https://www.google.com/url
 
 Find my published and peer-reviewed articles on [Google Scholar](https://scholar.google.com/citations?user=b8v4d0sAAAAJ&hl=en&oi=sra) and the wonderful, open access (non-peer reviewed) [arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Crane,+E).
 
-## Policy, Politics and Leadership
+## Leadership
 
 Board member [MIT European Club](https://euroclub.mit.edu/board). Organising the [MIT European Career Fair](https://euro-career.mit.edu).
 
