@@ -19,7 +19,5 @@ Grew up in a superposition of England and France, and enjoy adventures, whatever
 - **[Sept. 2024]** Our preprint on [qubit-oscillator quantum simulation](https://arxiv.org/pdf/2409.03747) has appeared on the arXiv. Hurray! Here we propose a very promising approach to simulating fermion-boson models using native qubit-boson hardware, with the example of high-energy physics models. Thank you Nathan Wiebe and Steve Girvin. Years of hard work!
 - **[Aug. 2024]** Our preprint on [qubit-oscillator quantum architecture](https://arxiv.org/pdf/2407.10381) has appeared on the arXiv. 
 
-## Key Publications
-
 {% include_relative _includes/publications.md %}
 
