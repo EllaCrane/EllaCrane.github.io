@@ -19,3 +19,4 @@ Currently a [Postdoc at MIT](https://meche.mit.edu/people/staff/emc2@mit.edu), w
 
 {% include_relative _includes/publications.md %}
 
+For more publications, go to: [Google Scholar](https://scholar.google.com/citations?user=b8v4d0sAAAAJ&hl=en&oi=sra) or [arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Crane,+E).
