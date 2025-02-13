@@ -34,3 +34,23 @@ main:
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     # notes: Early Accept
 
+  - title: "Bosonic Qiskit"
+    authors: Tim Stavenger, <strong>Eleanor Crane</strong>, Kevin C. Smith, Chris Kang, Nathan Wiebe, Steven M. Girvin
+    conference_short: Best Paper Award
+    conference: IEEE, 2022.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9926318
+    image: ./assets/img/biskit.png
+
+  - title: "Deterministic constant-depth preparation of the AKLT state on a quantum processor using fusion measurements"
+    authors: Kevin C. Smith, <strong>Eleanor Crane</strong>, Nathan Wiebe, Steven M. Girvin
+    conference_short: PRX Quantum
+    conference: 2023.
+    pdf: https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.020315
+    image: ./assets/img/aklt.png
+
+  - title: Finite-energy properties of the Fermi-Hubbard model in 2D on the Quantinuum quantum computer
+    authors: Kevin Hemery, Khaldoon Ghanem, <strong>Eleanor Crane</strong>, ..., Henrik Dreyer, Alexander Schuckert, Ramil Nigmatullin
+    conference_short: PRX Quantum
+    conference: 2023.
+    pdf: https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.030323
+    image: ./assets/img/quantinuum.png
