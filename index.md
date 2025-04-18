@@ -18,7 +18,6 @@ Currently a [Postdoc at MIT](https://meche.mit.edu/people/staff/emc2@mit.edu), w
 - **[Dec. 2024]** Completed the [Adaptive Leadership](https://www.hks.harvard.edu/publications/practice-adaptive-leadership-tools-and-tactics-changing-your-organization-and-world) course at the Harvard Kennedy School.
 - **[Nov. 2024]** Our preprint on [fermion-qubit error correction](https://arxiv.org/pdf/2411.08955) has appeared on the arXiv. Exponential advantage from O(N) to O(log N) for the quantum simulation of crystalline molecules or materials! Incredible work, Alexander Schuckert, and Michael Gullans.
 - **[Sept. 2024]** Our preprint on [qubit-oscillator quantum simulation](https://arxiv.org/pdf/2409.03747) has appeared on the arXiv. Hurray! Here we propose a very promising approach to simulating fermion-boson models using native qubit-boson hardware, with the example of high-energy physics models. Thank you Nathan Wiebe and Steve Girvin. Years of hard work!
-- **[Aug. 2024]** Our preprint on [qubit-oscillator quantum architecture](https://arxiv.org/pdf/2407.10381) has appeared on the arXiv. 
 
 {% include_relative _includes/publications.md %}
 
