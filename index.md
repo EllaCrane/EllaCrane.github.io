@@ -6,9 +6,7 @@ layout: homepage
 
 Non-resident fellow at the Harvard Kennedy School, where I research and teach quantum policy for [Defense, Emerging Technology, and Strategy](https://www.belfercenter.org/programs/defense-emerging-technology-and-strategy) with Eric Rosenbach.
 
-Board member [MIT European Club](https://euroclub.mit.edu/board). Organising the [MIT European Career Fair](https://euro-career.mit.edu). Organising the [Harvard European Conference](https://euroconf.eu). Teaching assistant for leadership course [LEAPS](https://physics.mit.edu/academic-programs/subjects/mitleaps/) (MIT). Currently taking  [Transforming Systems](https://locator.tlt.harvard.edu/course/gse-205506/2025/spring/19970) (Harvard), and completed [Adaptive Leadership](https://www.hks.harvard.edu/publications/practice-adaptive-leadership-tools-and-tactics-changing-your-organization-and-world) (Harvard).
-
-Grew up in a superposition of England and France, and enjoy adventures, whatever the nature. 
+Board member [MIT European Club](https://euroclub.mit.edu/board). Organising the [MIT European Career Fair](https://euro-career.mit.edu). Organising the [Harvard European Conference](https://euroconf.eu). Teaching assistant for leadership course [LEAPS](https://physics.mit.edu/academic-programs/subjects/mitleaps/) (MIT). Currently taking  [Transforming Systems](https://locator.tlt.harvard.edu/course/gse-205506/2025/spring/19970) (Harvard), and completed [Adaptive Leadership](https://www.hks.harvard.edu/publications/practice-adaptive-leadership-tools-and-tactics-changing-your-organization-and-world) (Harvard). Grew up in a superposition of England and France, and enjoy adventures, whatever the nature. 
 
 
 ## News
