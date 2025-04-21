@@ -2,7 +2,8 @@
 layout: homepage
 ---
 
-Assistant Professor at King's College London (quantum computing) & Visting Fellow at the Harvard Kennedy School (quantum policy).
+Assistant Professor (Physics, Quantum Computing), [King's Quantum](https://www.kcl.ac.uk/nmes/research/kings-quantum) at King's College London
+Visting Fellow (Quantum Policy), [Belfer Center for Science and International Affairs](https://www.belfercenter.org) at the [Harvard Kennedy School](https://www.hks.harvard.edu)
 
 My goal is to enable quantum simulation of nature using error-corrected quantum computers made of qubits, fermions, and bosons (see [Qiskit Seminar Series](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3D5dyUNsh8Q9E&ved=2ahUKEwiPy9OO2oKLAxVGvokEHcm7ArYQwqsBegQIDRAE&usg=AOvVaw3ueBJk0AdnNi4DKtmB0Hty)). Find my published and peer-reviewed articles on [Google Scholar](https://scholar.google.com/citations?user=b8v4d0sAAAAJ&hl=en&oi=sra) and the wonderful, open access (non-peer reviewed) [arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Crane,+E).
 
@@ -13,7 +14,6 @@ Just finished my [postdoc at MIT](https://meche.mit.edu/people/staff/emc2@mit.ed
 
 ## News
 
-- **[Apr. 2025]** Very excited to share that I have become a non-resident fellow at the [Belfer Center for Science and International Affairs](https://www.belfercenter.org) at the [Harvard Kennedy School of Government](https://www.hks.harvard.edu)!
 - **[Apr. 2025]** Our preprint about [compiler optimization for Hamiltonian simulation using partial Trotterization](https://arxiv.org/pdf/2409.03747) has appeared on the arXiv.
 - **[Mar. 2025]** Our preprint on the [phases of the Z2 Higgs lattice gauge theory](https://arxiv.org/abs/2503.03828) has appeared on the arXiv.
 - **[Jan. 2025]** The [New Scientist](https://www.newscientist.com/article/2464444-elusive-phase-change-finally-spotted-in-a-quantum-simulator/) wrote a great summary of our first observation of a finite-energy phase transition in one dimension.
