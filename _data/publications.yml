@@ -1,5 +1,12 @@
 main:
 
+  - title: Critical and Emerging Technologies Index
+    authors: Eric Rosenbach, Lea Baltussen, Eleanor Crane, Ethan Kessler, Lukasz Kolodziej, Ethan Lee, Alexandre Meyer, Cynthia Tong, Britney Tran, Delaney Wehn
+    conference_short: HKS
+    conference: Harvard Kennedy School Belfer Center for Science and International Affairs, 2025.
+    pdf: https://www.belfercenter.org/critical-emerging-tech-index#in-this-section-nav-8
+    image: ./assets/img/indexhks.png
+
   - title: Observation of a finite-energy phase transition in a one-dimensional quantum simulator
     authors: Alexander Schuckert, Or Katz, Lei Feng, <strong>Eleanor Crane</strong>, Arinjoy De, Mohammad Hafezi, Alexey V. Gorshkov, Christopher Monroe 
     conference_short: Nat. Phys.
