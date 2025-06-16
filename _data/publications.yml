@@ -8,8 +8,7 @@ main:
     image: ./assets/img/indexhks.png
 
   - title: Symbolic Hamiltonian Compiler for Hybrid Qubit-Boson Processors
-    authors: Ethan Decker, Erik Gustafson, Evan McKinney, Alex K. Jones,
-Lucas Goetz, Ang Li, Alexander Schuckert, Samuel Stein, Gushu Li, Eleanor Crane
+    authors: Ethan Decker, Erik Gustafson, Evan McKinney, Alex K. Jones, Lucas Goetz, Ang Li, Alexander Schuckert, Samuel Stein, Gushu Li, Eleanor Crane
     conference_short: arXiv
     conference: arXiv, 2025.
     pdf: https://arxiv.org/pdf/2506.00215
