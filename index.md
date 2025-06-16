@@ -16,7 +16,7 @@ Just finished my [postdoc at MIT](https://meche.mit.edu/people/staff/emc2@mit.ed
 
 - **[Jun. 2025]** [The Economist](https://www.economist.com/graphic-detail/2025/06/06/who-is-ahead-in-the-global-tech-race) just wrote a great article about our work: [Who is ahead in the global tech race?](https://www.economist.com/graphic-detail/2025/06/06/who-is-ahead-in-the-global-tech-race)
 - **[Jun. 2025]** Our [Critical and Emerging Technologies Index](https://www.belfercenter.org/critical-emerging-tech-index#in-this-section-nav-8) has just been published by the Harvard Kennedy School.
-- **[Jun. 2025]** We just got married! <br> <img src="assets/img/wedding.png" width="30">
+- **[Jun. 2025]** We just got married! <br> <img src="assets/img/wedding.png" width="300">
 - **[Apr. 2025]** Our preprint about [compiler optimization for Hamiltonian simulation using partial Trotterization](https://arxiv.org/pdf/2409.03747) has appeared on the arXiv.
 - **[Mar. 2025]** Our preprint on the [phases of the Z2 Higgs lattice gauge theory](https://arxiv.org/abs/2503.03828) has appeared on the arXiv.
 - **[Jan. 2025]** The [New Scientist](https://www.newscientist.com/article/2464444-elusive-phase-change-finally-spotted-in-a-quantum-simulator/) wrote a great summary of our first observation of a finite-energy phase transition in one dimension.
