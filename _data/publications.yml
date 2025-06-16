@@ -7,6 +7,14 @@ main:
     pdf: https://www.belfercenter.org/critical-emerging-tech-index#in-this-section-nav-8
     image: ./assets/img/indexhks.png
 
+  - title: Symbolic Hamiltonian Compiler for Hybrid Qubit-Boson Processors
+    authors: Ethan Decker, Erik Gustafson, Evan McKinney, Alex K. Jones,
+Lucas Goetz, Ang Li, Alexander Schuckert, Samuel Stein, Gushu Li, Eleanor Crane
+    conference_short: arXiv
+    conference: arXiv, 2025.
+    pdf: https://arxiv.org/pdf/2506.00215
+    image: ./assets/img/compiler.png
+
   - title: Observation of a finite-energy phase transition in a one-dimensional quantum simulator
     authors: Alexander Schuckert, Or Katz, Lei Feng, <strong>Eleanor Crane</strong>, Arinjoy De, Mohammad Hafezi, Alexey V. Gorshkov, Christopher Monroe 
     conference_short: Nat. Phys.
