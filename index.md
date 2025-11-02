@@ -16,7 +16,7 @@ Just finished my [postdoc at MIT](https://meche.mit.edu/people/staff/emc2@mit.ed
 ## News
 
 - **[Nov. 2025]** Innovate UK funding for collaboration with QuEra, Phasecraft, Coversion, Mesolens, UCL and Oxford starts.
-- **[Oct. 2025]** Entering the [semifinal of the Google XPRIZE (King's News)](https://www.kcl.ac.uk/news/kings-quantum-scientist-enters-semifinal-of-major-global-competition), competing for 5M $ prize purse!
+- **[Oct. 2025]** Entering the [semifinal of the Google XPRIZE (King's News article)](https://www.kcl.ac.uk/news/kings-quantum-scientist-enters-semifinal-of-major-global-competition), competing for 5M $ prize purse!
 - **[Sep. 2025]** I am hosting an 8 week long extra-curricular [King's IBM Quantum Computing Fall Fest](https://fallfest.qiskit.london) with over 250 students registered from around London, 5-9pm every Wednesday.
 - **[Sep. 2025]** [Sky News](https://news.sky.com/story/british-scientist-among-nobel-prize-winners-for-quantum-research-13446492) published my comments about this year's Nobel prize awarded to a French, and English and an American scientist.
 - **[Jun. 2025]** [The Economist](https://www.economist.com/graphic-detail/2025/06/06/who-is-ahead-in-the-global-tech-race) just wrote a great article about our work: [Who is ahead in the global tech race?](https://www.economist.com/graphic-detail/2025/06/06/who-is-ahead-in-the-global-tech-race) and it was linked in [Politico](https://www.politico.com/newsletters/national-security-daily/2025/06/05/ukraine-reveals-russias-larger-war-strategy-00390707).
