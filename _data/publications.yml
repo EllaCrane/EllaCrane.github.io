@@ -1,40 +1,5 @@
 main:
 
-  - title: Observation of disorder-induced superfluidity
-    authors: Google & Co, Nicole Ticea*, Elias Portoles*, Eliot Rosenberg*, Alexander Schuckert*, ..., <strong>Eleanor Crane</strong>, ..., Pedram Roushan
-    conference_short: arXiv
-    conference: arXiv 2025.
-    pdf: https://arxiv.org/pdf/2512.21416
-    image: ./assets/img/google.png
-
-  - title: Hybrid Digital-Analog Protocols
-    authors: Or Katz*, Alexander Schuckert*, Tianyi Wang*, <strong>Eleanor Crane</strong>, Alexey Gorshkov, Marco Cetina
-    conference_short: arXiv
-    conference: arXiv 2025.
-    pdf: https://arxiv.org/pdf/2512.21385
-    image: ./assets/img/digitalanalog.png
-
-  - title: Critical and Emerging Technologies Index
-    authors: Eric Rosenbach, Lea Baltussen, <strong>Eleanor Crane</strong>, Ethan Kessler, Lukasz Kolodziej, Ethan Lee, Alexandre Meyer, Cynthia Tong, Britney Tran, Delaney Wehn
-    conference_short: Harvard
-    conference: Harvard Kennedy School Belfer Center for Science and International Affairs, 2025.
-    pdf: https://www.belfercenter.org/critical-emerging-tech-index#in-this-section-nav-8
-    image: ./assets/img/indexhks.png
-
-  - title: Symbolic Hamiltonian Compiler for Hybrid Qubit-Boson Processors
-    authors: Ethan Decker, Erik Gustafson, Evan McKinney, Alex K. Jones, Lucas Goetz, Ang Li, Alexander Schuckert, Samuel Stein, Gushu Li, <strong>Eleanor Crane</strong>
-    conference_short: IEEE QCE
-    conference: IEEE QCE 2025.
-    pdf: https://ieeexplore.ieee.org/document/11250346
-    image: ./assets/img/compiler.png
-
-  - title: Kernpiler: Partial Trotterization for Quantum Simulation
-    authors: Ethan Decker, Lucas Goetz, Evan McKinney, Erik Gustafson, Junyu Zhou, Yuhao Liu, Alex K. Jones, Ang Li, Alexander Schuckert, Samuel Stein, <strong>Eleanor Crane</strong>, Gushu Li
-    conference_short: arXiv
-    conference: arXiv 2025.
-    pdf: https://arxiv.org/pdf/2504.07214
-    image: ./assets/img/kernpiler.png
-
   - title: Observation of a finite-energy phase transition in a one-dimensional quantum simulator
     authors: Alexander Schuckert, Or Katz, Lei Feng, <strong>Eleanor Crane</strong>, Arinjoy De, Mohammad Hafezi, Alexey V. Gorshkov, Christopher Monroe 
     conference_short: Nat. Phys.
