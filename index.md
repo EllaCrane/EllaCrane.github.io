@@ -17,6 +17,7 @@ Previously, I did a [postdoc at MIT](https://meche.mit.edu/people/staff/emc2@mit
 
 ## News
 
+- **[Dec. 2025]** Two Christmas papers! A [collaboration with Google](https://arxiv.org/pdf/2512.21416), and a (digital-analog experimental)[https://arxiv.org/pdf/2512.21385] work.
 - **[Nov. 2025]** Innovate UK funding for collaboration with QuEra, Phasecraft, Coversion, Mesolens, UCL and Oxford starts.
 - **[Oct. 2025]** Entering the [semifinal of the Google XPRIZE (King's News article)](https://www.kcl.ac.uk/news/kings-quantum-scientist-enters-semifinal-of-major-global-competition), competing for 5M $ prize purse.
 - **[Sep. 2025]** I hosted a free 8 week long extra-curricular [King's IBM Quantum Computing Fall Fest](https://fallfest.qiskit.london) with over 250 students from around London, 5-9pm every Wednesday, topped off with a very successful career fair and hackathon with QuEra, Phasecraft, Google Quantum AI, IBM and Amazon Braket. <br> <img src="assets/img/ff.png" width="800">
