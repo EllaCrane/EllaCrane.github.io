@@ -1,5 +1,12 @@
 main:
 
+  - title: Observation of Disorder-Induced Superfluidity
+    authors: (Google team) Nicole Ticea, Elias Portoles, Eliot Rosenberg, Alexander Schuckert, ..., <strong>Eleanor Crane</strong>, ..., Pedram Roushan
+    conference_short: arXiv
+    conference: arXiv 2025.
+    pdf: https://arxiv.org/pdf/2512.21416
+    image: ./assets/img/google.png
+
   - title: Hybrid Digital-Analog Protocols
     authors: Or Katz, Alexander Schuckert, Tianyi Wang, <strong>Eleanor Crane</strong>, Alexey Gorshkov, Marco Cetina
     conference_short: arXiv
