@@ -1,5 +1,51 @@
 main:
 
+  - title: Observation of a finite-energy phase transition in a one-dimensional quantum simulator
+    authors: Alexander Schuckert, Or Katz, Lei Feng, <strong>Eleanor Crane</strong>, Arinjoy De, Mohammad Hafezi, Alexey V. Gorshkov, Christopher Monroe 
+    conference_short: Nat. Phys.
+    conference: Nature Physics, 2025.
+    pdf: https://rdcu.be/d6BgC
+    image: ./assets/img/1DFiniteTemp.png
+    journal: https://www.nature.com/articles/s41567-024-02751-2
+    arxiv: https://arxiv.org/abs/2310.19869
+    press: https://www.newscientist.com/article/2464444-elusive-phase-change-finally-spotted-in-a-quantum-simulator/
+    bibtex: ./assets/bib/Schuckert2025.bib
+
+  - title: Fermion-qubit fault-tolerant quantum computing
+    authors: Alexander Schuckert, <strong>Eleanor Crane</strong>, Alexey V. Gorshkov, Mohammad Hafezi, Michael J. Gullans
+    conference_short: arXiv
+    conference: arXiv, 2024.
+    pdf: https://arxiv.org/abs/2411.08955
+    image: ./assets/img/FermiQEC.png
+
+  - title: "Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields"
+    authors: <strong>Eleanor Crane</strong>, Kevin C. Smith, Teague Tomesh, Alec Eickbusch, John M. Martyn, Stefan Kuhn, Lena Funcke, Michael A. DeMarco, Isaac L. Chuang, Nathan Wiebe, Alexander Schuckert, Steven M. Girvin
+    conference_short: arXiv
+    conference: arXiv, 2024.
+    pdf: https://arxiv.org/abs/2409.03747
+    image: ./assets/img/lgt.png
+
+  - title: "Hybrid Oscillator-Qubit Quantum Processors: Instruction Set Architectures, Abstract Machine Models, and Applications"
+    authors: Yuan Liu, Shraddha Singh, Kevin C. Smith, <strong>Eleanor Crane</strong>, John M. Martyn, Alec Eickbusch, Alexander Schuckert, Richard D. Li, Jasmine Sinanan-Singh, Micheline B. Soley, Takahiro Tsunoda, Isaac L. Chuang, Nathan Wiebe, Steven M. Girvin
+    conference_short: PRX Quantum Open Access
+    conference: 2026.
+    pdf: https://doi.org/10.1103/4rf7-9tfx
+    image: ./assets/img/isa.png
+
+  - title: "Bosonic Qiskit"
+    authors: Tim Stavenger, <strong>Eleanor Crane</strong>, Kevin C. Smith, Chris Kang, Nathan Wiebe, Steven M. Girvin
+    conference_short: Best Paper Award
+    conference: IEEE, 2022.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9926318
+    image: ./assets/img/biskit.png
+
+  - title: "Deterministic constant-depth preparation of the AKLT state on a quantum processor using fusion measurements"
+    authors: Kevin C. Smith, <strong>Eleanor Crane</strong>, Nathan Wiebe, Steven M. Girvin
+    conference_short: PRX Quantum
+    conference: 2023.
+    pdf: https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.020315
+    image: ./assets/img/aklt.png
+
   - title: Finite-energy properties of the Fermi-Hubbard model in 2D on the Quantinuum quantum computer
     authors: Kevin Hemery, Khaldoon Ghanem, <strong>Eleanor Crane</strong>, ..., Henrik Dreyer, Alexander Schuckert, Ramil Nigmatullin
     conference_short: PRX Quantum
