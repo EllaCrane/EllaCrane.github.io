@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-Assistant Professor (Quantum Computing), [King's Quantum](https://www.kcl.ac.uk/nmes/research/kings-quantum) at [King's College London](https://www.kcl.ac.uk)\\
+Assistant Professor (Quantum Computing), [King's Quantum, King's College London](https://www.kcl.ac.uk/people/eleanor-crane)\\
 Fellow (Quantum Policy), [Belfer Center for Science and International Affairs, Harvard Kennedy School](https://www.belfercenter.org/people/eleanor-crane) \\
 Editor, [Quantum](https://quantum-journal.org), Open Access Peer-reviewed Non-profit Quantum Science Journal
 
