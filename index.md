@@ -20,6 +20,8 @@ Previously, I did a [postdoc at MIT](https://meche.mit.edu/people/staff/emc2@mit
 
 ## News
 
+
+- **[Feb. 2025]** Provided the Quantum part of the Sundai Club's Quantum Hack! The [Sundai Club](https://www.sundai.club) by the MIT media lab, co-founded by my friend Serge Vasylechko runs AI hacks every sunday at MIT.
 - **[Dec. 2025]** Christmas day: two papers on the arXiv and a partridge in a pear tree. A [collaboration with Google](https://arxiv.org/pdf/2512.21416), and a [digital-analog experimental](https://arxiv.org/pdf/2512.21385) work.
 - **[Nov. 2025]** Innovate UK funding for collaboration with QuEra, Phasecraft, Coversion, Mesolens, UCL and Oxford starts.
 - **[Oct. 2025]** Entering the [semifinal of the Google XPRIZE (King's News article)](https://www.kcl.ac.uk/news/kings-quantum-scientist-enters-semifinal-of-major-global-competition), competing for 5M $ prize purse.
