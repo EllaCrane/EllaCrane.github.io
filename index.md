@@ -20,7 +20,8 @@ Previously, I did a [postdoc at MIT](https://meche.mit.edu/people/staff/emc2@mit
 
 ## News
 
-- **[Mar. 2026]** [Was quoted in the Guardian!](https://www.theguardian.com/business/live/2026/mar/17/rachel-reeves-mais-lecture-ai-adoption-deeper-eu-ties-regional-growth-business-live-news-updates?CMP=share_btn_url&page=with%3Ablock-69b93a998f0822f65666433b#block-69b93a998f0822f65666433b)
+- **[Apr. 2026]** Felt very grateful to the organisers of [Monte Verita Quantum Codes](https://mvqc.ethz.ch) which was a blast. I love conferences which give you the afternoon free to explore new projects with colleagues and friends and go swimming and walking before reuniting for more talks and nerdy banter in the evenings.
+- **[Mar. 2026]** [Quoted in the Guardian](https://www.theguardian.com/business/live/2026/mar/17/rachel-reeves-mais-lecture-ai-adoption-deeper-eu-ties-regional-growth-business-live-news-updates?CMP=share_btn_url&page=with%3Ablock-69b93a998f0822f65666433b#block-69b93a998f0822f65666433b)
 - **[Feb. 2026]** Provided the Quantum part of the Sundai Club's Quantum Hack! The [Sundai Club](https://www.sundai.club) by the MIT media lab, co-founded by my friend Serge Vasylechko, runs AI hacks every sunday at MIT.
 - **[Dec. 2025]** Christmas day: two papers on the arXiv and a partridge in a pear tree. A [collaboration with Google](https://arxiv.org/pdf/2512.21416), and a [digital-analog experimental](https://arxiv.org/pdf/2512.21385) work.
 - **[Nov. 2025]** Innovate UK funding for collaboration with QuEra, Phasecraft, Coversion, Mesolens, UCL and Oxford starts.
