@@ -20,6 +20,7 @@ Previously, I did a [postdoc at MIT](https://meche.mit.edu/people/staff/emc2@mit
 
 ## News
 
+- **[Jun. 2026]** We won the Google + National Quantum Computing Center bid with Alexander Schuckert from ENS Paris! [Read the BBC article and listen to the Radio 4 Today live interview here](https://www.bbc.co.uk/news/articles/cd7pwezyze1o)
 - **[May 2026]** As a [Google XPRIZE Finalist](https://www.xprize.org/news/from-wildcard-entry-to-impact-xprize-quantum-applications-wildcard-finalists-advancing-to-next-phase) our team is going to the last phase of the competition.
 - **[Apr. 2026]** Felt very grateful to the organisers of [Monte Verita Quantum Codes](https://mvqc.ethz.ch) which was a blast. I love conferences which give you the afternoon free to explore new projects with colleagues and friends and go swimming and walking before reuniting for more talks and nerdy banter in the evenings.
 - **[Mar. 2026]** [Quoted in the Guardian](https://www.theguardian.com/business/live/2026/mar/17/rachel-reeves-mais-lecture-ai-adoption-deeper-eu-ties-regional-growth-business-live-news-updates?CMP=share_btn_url&page=with%3Ablock-69b93a998f0822f65666433b#block-69b93a998f0822f65666433b)
