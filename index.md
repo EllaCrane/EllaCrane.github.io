@@ -1,6 +1,7 @@
 ---
 layout: homepage
 ---
+Open post-doc position: [link](https://www.jobs.ac.uk/job/DSJ367/postdoctoral-research-associate-in-quantum-many-body-systems)\\
 
 Assistant Professor (Quantum Computing), [King's Quantum, King's College London](https://www.kcl.ac.uk/people/eleanor-crane)\\
 Fellow (Quantum Policy), [Belfer Center for Science and International Affairs, Harvard Kennedy School](https://www.belfercenter.org/people/eleanor-crane) \\
