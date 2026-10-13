@@ -21,6 +21,8 @@ Previously, I did a [postdoc at MIT](https://meche.mit.edu/people/staff/emc2@mit
 
 ## News
 
+- **[Oct. 2026]** Physics magazine featured a piece about our PRX article on native bosonic quantum computing <br> <img src="assets/img/featuredinphysics.png" width="500">
+- **[Oct. 2026]** My paper was [published in PRX](https://journals.aps.org/prx/abstract/10.1103/s5bn-z4jq) no less!
 - **[Jul. 2026]** Open post-doc position for Google project: [link](https://www.jobs.ac.uk/job/DSJ367/postdoctoral-research-associate-in-quantum-many-body-systems)
 - **[Jun. 2026]** We won the Google + National Quantum Computing Center bid with Alexander Schuckert from ENS Paris! [Read the BBC article and listen to the Radio 4 Today live interview here](https://www.bbc.co.uk/news/articles/cd7pwezyze1o)
 - **[May 2026]** As a [Google XPRIZE Finalist](https://www.xprize.org/news/from-wildcard-entry-to-impact-xprize-quantum-applications-wildcard-finalists-advancing-to-next-phase) our team is going to the last phase of the competition.
