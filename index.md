@@ -21,8 +21,12 @@ Previously, I did a [postdoc at MIT](https://meche.mit.edu/people/staff/emc2@mit
 
 ## News
 
+- **[Nov. 2026]** Final report submitted for the [XPRIZE Quantum Applications](https://www.xprize.org/competitions/qc-apps). It was such a pleasure to be a finalist team in this competition because the [guidelines are so deeply thought out](https://assets-us-01.kc-usercontent.com/9bc15d1f-8a5c-007d-b507-e3496e85af86/c3118fb2-7431-4d17-9845-dc8aa11ae426/XPRIZE%20Quantum%20Applications%20Competition%20Guidelines_V.06.pdf). If you're a researcher - maybe in any field, take a look at them. They set out how to lead a scientific project with impact. I have taken them as guidance for the Open London Quantum Computing series group projects, and will tell anyone who will listen about how helpful these guidelines are! 
+- **[Nov. 2026]** Had some fantastic chats in Oxford after giving the Atom and Laser Seminar (which has such an active and curious audience!)
+- **[Nov. 2026]** Our very special [Open London Quantum Computing](https://open.quantumcomputing.london) series kicks off for its second year! Students from King's, Imperial and UCL have helped me organise a free series of lectures by carefully selected quantum computing professors from around London, open to anyone, which concludes in 5 minute presentations of group projects around quantum advantage, and quantum companies (this year we have Quantinuum, QuEra, Alice and Bob, Planqc, Inflection, Google and IBM).
 - **[Oct. 2026]** Physics magazine featured a piece about my PRX article on native bosonic quantum computing <br> <img src="assets/img/featuredinphysics.jpg" width="500">
 - **[Oct. 2026]** My paper was [published in PRX](https://journals.aps.org/prx/abstract/10.1103/s5bn-z4jq) no less!
+- **[Sep. 2026]** Thank you to the ML4Q for the invitation to a really great workshop about qudit error-correction in Aarchen, Germany.
 - **[Jul. 2026]** Open post-doc position for Google project: [link](https://www.jobs.ac.uk/job/DSJ367/postdoctoral-research-associate-in-quantum-many-body-systems)
 - **[Jun. 2026]** We won the Google + National Quantum Computing Center bid with Alexander Schuckert from ENS Paris! [Read the BBC article and listen to the Radio 4 Today live interview here](https://www.bbc.co.uk/news/articles/cd7pwezyze1o)
 - **[May 2026]** As a [Google XPRIZE Finalist](https://www.xprize.org/news/from-wildcard-entry-to-impact-xprize-quantum-applications-wildcard-finalists-advancing-to-next-phase) our team is going to the last phase of the competition.
